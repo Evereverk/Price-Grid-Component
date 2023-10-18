@@ -23,8 +23,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: []
-- Live Site URL: []
+- Solution URL: [https://github.com/Evereverk/Price-Grid-Component.git]
+- Live Site URL: [https://price-grid-component-five.vercel.app/]
 
 ## My process
 
